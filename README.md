@@ -20,4 +20,4 @@ This project focuses on analyzing machine downtime data to identify patterns, tr
 - Discover weekday-based patterns in performance
 - Support predictive maintenance and operational planning
 
-## 📂 Folder Structure
+
